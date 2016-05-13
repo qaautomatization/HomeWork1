@@ -132,9 +132,7 @@ public class HW1ContactUsFormSubmission {
             System.out.println("4) Test Fails");
         }
         clearIcon.click();
-
-
-
+        
         driver.quit();
         }
     }
